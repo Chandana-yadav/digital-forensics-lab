@@ -1,10 +1,12 @@
-Welcome to my cybersecurity project portfolio — this repository highlights a hands-on digital forensics lab completed during my MS in Cybersecurity.
+Welcome to my cybersecurity project portfolio — this repository highlights a hands-on digital forensics lab completed during my Master’s in Cybersecurity, focusing on evidence analysis, compliance, and investigative skills.
 
 🛡️ Digital Forensics Investigation Lab  
-Yeshiva University | Cengage-Based Practical Training | Jan – May 2024
 
 🎯 Objective  
 Completed a structured digital forensics lab series simulating breach investigations across multi-OS environments. Built practical expertise in evidence handling, attack reconstruction, and compliance reporting.
+
+🧪 Project Context  
+This lab series was completed through the Cengage learning platform and simulated real-world forensic workflows. Each module focused on evidence acquisition, system analysis, and legal documentation — key skills in incident response and compliance roles.
 
 🔧 Tools & Environments  
 FTK Imager, Autopsy, Sleuth Kit, Wireshark, Command-Line Forensics  
