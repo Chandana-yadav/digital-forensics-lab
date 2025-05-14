@@ -1,9 +1,7 @@
-#cybersecurity-projects
-
-Hands-on forensic investigation labs using FTK, Autopsy, and CLI tools
+Welcome to my cybersecurity project portfolio — this repository highlights a hands-on digital forensics lab completed during my MS in Cybersecurity.
 
 🛡️ Digital Forensics Investigation Lab  
-Yeshiva University | Hands-On Lab Series via Cengage | Jan – May 2024
+Yeshiva University | Cengage-Based Practical Training | Jan – May 2024
 
 🎯 Objective  
 Completed a structured digital forensics lab series simulating breach investigations across multi-OS environments. Built practical expertise in evidence handling, attack reconstruction, and compliance reporting.
